@@ -1,0 +1,7 @@
+# IDEs
+.idea
+
+# WordPress
+wp-config.php
+
+/vendor/
